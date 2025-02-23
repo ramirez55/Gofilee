@@ -10,7 +10,7 @@ load_dotenv()
 
 Bot = Client(
     "GoFile-Bot",
-    bot_token=os.environ.get("BOT_TOKEN"),
+    bot_token=os.environ.get("7788590594:AAG7gtBh2HotHziLRfIWat1coGpmzDT4Ryo"),
     api_id=int(os.environ.get("API_ID")),
     api_hash=os.environ.get("API_HASH"),
 )
